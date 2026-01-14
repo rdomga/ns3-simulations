@@ -1,0 +1,9 @@
+=== RAPPORT D'ANALYSE LORAWAN ===
+Date: 2025-09-15 17:07:33
+
+RÉSUMÉ DES DONNÉES:
+Nombre total d'enregistrements: 75
+Scénarios analysés: Scenario5, Scenario3, Scenario1, Scenario2, Scenario4
+Algorithmes testés: UCB1, ToW, Random
+
+STATISTIQUES GLOBALES:

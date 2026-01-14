@@ -40,6 +40,10 @@
 # debug information files
 *.dwo
 
-# Ignore some log files and detailled CSV files
-#ns-allinone-3.42/ns-3.42/scratch/results/*.log
-#ns-allinone-3.42/ns-3.42/scratch/results/*.csv
+
+# 1. Ignorer tous les fichiers .csv partout dans le projet
+**/*.csv
+**/*.log
+
+# 2. Ne pas ignorer les fichiers .csv s'ils sont dans un dossier "summaries"
+!**/summaries/*.csv

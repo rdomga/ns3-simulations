@@ -1,0 +1,18 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+=== D-LoRa Simulation Results ===
+Algorithm: DLoRa-PDR
+Topology Radius: 1000m
+Number of Nodes: 200
+Simulation Time: 7200s
+Packet Interval: 180s
+Payload Size: 50 bytes
+Spreading Factor: 7
+Mobility: 0%
+--------------------------------
+PDR: 89.2%
+EE: 178.05 bits/mJ
+TH: 3887.63 bps
+Packets Sent: 1715579.00
+Packets Received: 1530152.00
+Energy Consumed: 3437617.916 mJ
