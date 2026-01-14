@@ -41,5 +41,5 @@
 *.dwo
 
 # Ignore some log files and detailled CSV files
-ns-allinone-3.42/ns-3.42/scratch/results/*.log
-ns-allinone-3.42/ns-3.42/scratch/results/*.csv
+#ns-allinone-3.42/ns-3.42/scratch/results/*.log
+#ns-allinone-3.42/ns-3.42/scratch/results/*.csv
